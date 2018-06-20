@@ -4,3 +4,4 @@ let currentUser ="Me"
 
 console.log("Me");
 
+const currentUser = 'Grace Hopper';
