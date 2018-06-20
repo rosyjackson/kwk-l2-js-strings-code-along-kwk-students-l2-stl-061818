@@ -2,4 +2,4 @@
 
 let currentUser
 
-console.log("")
+console.log("");
