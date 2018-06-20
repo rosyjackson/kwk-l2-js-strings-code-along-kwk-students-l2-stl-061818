@@ -7,3 +7,6 @@ const welcomeMessage = `Welcome to Klossybook, ${currentUser}!`;
 const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
 const shortGreeting = "Welcome, E!"
+
+const firstInitial = currentUser[0];
+const restOfName = currentUser.slice(1);
