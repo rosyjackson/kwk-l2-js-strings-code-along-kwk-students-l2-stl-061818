@@ -1,5 +1,5 @@
 // Write your code in this file!
 
-let currentUser =""
+let currentUser ="Me"
 
-console.log("");
+console.log("Me");
